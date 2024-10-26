@@ -2,4 +2,4 @@
 
 # Pokedex
 
-<img src ="./src/imagens/Image002.png">
+<img src ="./src/imagens/Image002.jpg">
