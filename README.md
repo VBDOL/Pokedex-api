@@ -2,4 +2,4 @@
 
 # Pokedex
 
-<img src ="./src/imagens/Image002.jpg">
+<img src="./assets/images/Image002.png" alt="pokedex" >
